@@ -140,7 +140,7 @@ Awareness → Trust → Lead Capture → Qualification → Conversion
 ## WhatsApp Automation
 
 Auto-reply:
-“Thank you for contacting GrandAura Events. Please share your event date and budget range.”
+“Thank you for contacting GrandAura Events. Please share your event date and budget range. We are glad to offer you our service.”
 ## 90-Day Plan
 
 Month 1: Foundation & Setup  
@@ -151,3 +151,4 @@ Month 3: Premium Push & Retargeting
 - 25–40 qualified leads per month
 - 2–4 conversions monthly
 - Strong ROI from premium events
+  
